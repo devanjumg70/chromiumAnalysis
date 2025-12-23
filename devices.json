@@ -1,0 +1,176 @@
+[
+    {
+        "order": 10,
+        "show-by-default": true,
+        "title": "iPhone SE",
+        "screen": {
+            "horizontal": {
+                "width": 667,
+                "height": 375
+            },
+            "device-pixel-ratio": 2,
+            "vertical": {
+                "width": 375,
+                "height": 667
+            }
+        },
+        "capabilities": [
+            "touch",
+            "mobile"
+        ],
+        "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
+        "type": "phone"
+    },
+    {
+        "order": 12,
+        "show-by-default": true,
+        "title": "iPhone XR",
+        "screen": {
+            "horizontal": {
+                "width": 896,
+                "height": 414
+            },
+            "device-pixel-ratio": 2,
+            "vertical": {
+                "width": 414,
+                "height": 896
+            }
+        },
+        "capabilities": [
+            "touch",
+            "mobile"
+        ],
+        "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
+        "type": "phone"
+    },
+    {
+        "order": 14,
+        "show-by-default": true,
+        "title": "iPhone 12 Pro",
+        "screen": {
+            "horizontal": {
+                "width": 844,
+                "height": 390
+            },
+            "device-pixel-ratio": 3,
+            "vertical": {
+                "width": 390,
+                "height": 844
+            }
+        },
+        "capabilities": [
+            "touch",
+            "mobile"
+        ],
+        "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
+        "type": "phone"
+    },
+    {
+        "order": 18,
+        "show-by-default": true,
+        "title": "Pixel 7",
+        "screen": {
+            "horizontal": {
+                "width": 915,
+                "height": 412
+            },
+            "device-pixel-ratio": 2.625,
+            "vertical": {
+                "width": 412,
+                "height": 915
+            }
+        },
+        "capabilities": [
+            "touch",
+            "mobile"
+        ],
+        "user-agent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+        "user-agent-metadata": {
+            "platform": "Android",
+            "platformVersion": "13",
+            "architecture": "",
+            "model": "Pixel 5",
+            "mobile": true
+        },
+        "type": "phone"
+    },
+    {
+        "order": 24,
+        "show-by-default": true,
+        "title": "Samsung Galaxy S20 Ultra",
+        "screen": {
+            "horizontal": {
+                "width": 915,
+                "height": 412
+            },
+            "device-pixel-ratio": 3.5,
+            "vertical": {
+                "width": 412,
+                "height": 915
+            }
+        },
+        "capabilities": [
+            "touch",
+            "mobile"
+        ],
+        "user-agent": "Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+        "user-agent-metadata": {
+            "platform": "Android",
+            "platformVersion": "13",
+            "architecture": "",
+            "model": "SM-G981B",
+            "mobile": true
+        },
+        "type": "phone"
+    },
+    {
+        "order": 29,
+        "show-by-default": true,
+        "title": "iPad Pro",
+        "screen": {
+            "horizontal": {
+                "width": 1366,
+                "height": 1024
+            },
+            "device-pixel-ratio": 2,
+            "vertical": {
+                "width": 1024,
+                "height": 1366
+            }
+        },
+        "capabilities": [
+            "touch",
+            "mobile"
+        ],
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15",
+        "type": "tablet"
+    },
+    {
+        "show-by-default": false,
+        "title": "Nexus 5",
+        "type": "phone",
+        "user-agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+        "user-agent-metadata": {
+            "platform": "Android",
+            "platformVersion": "6.0",
+            "architecture": "",
+            "model": "Nexus 5",
+            "mobile": true
+        },
+        "capabilities": [
+            "touch",
+            "mobile"
+        ],
+        "screen": {
+            "device-pixel-ratio": 3,
+            "vertical": {
+                "width": 360,
+                "height": 640
+            },
+            "horizontal": {
+                "width": 640,
+                "height": 360
+            }
+        }
+    }
+]
